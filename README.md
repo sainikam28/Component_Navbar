@@ -1,3 +1,10 @@
+# screenshots
+
+![Screenshot 2023-06-21 170538](https://github.com/sainikam28/Component_Navbar/assets/98597571/a5b65e5b-2be3-4722-b2ae-44885722ec89)
+![mob](https://github.com/sainikam28/Component_Navbar/assets/98597571/e5425b3f-9ce1-4930-84e7-16e548321577)
+![expanded mob view](https://github.com/sainikam28/Component_Navbar/assets/98597571/2baaa9e8-091e-405e-a813-b696577745ca)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
